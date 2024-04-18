@@ -1,0 +1,33 @@
+{
+  "name": "com.2218247.adventuregametoolkit",
+  "version": "1.0.0",
+  "displayName": "Adventure game toolkit",
+  "description": "Simple toolkit for building an adventure game",
+  "unity": "2022.3",
+  "unityRelease": "20f1",
+  "documentationUrl": "https://github.com/Newako",
+  "changelogUrl": "https://github.com/Newako/changelog.html",
+  "licensesUrl": "https://github.com/Newako/licensing.html",
+  "dependencies": {
+    "com.unity.cinemachine": "2.9.7",
+    "com.unity.inputsystem": "1.7.0",
+	"com.unity.textmeshpro": "3.0.8"
+ },
+ "keywords": [
+    "Simple",
+    "Adventure",
+    "Toolkit"
+  ],
+  "author": {
+    "name": "2218247",
+    "email": "ma2297@student.aru.ac.uk",
+    "url": "https://github.com/Newako"
+  },
+"samples": [
+        {
+            "displayName": "Adventure game toolkit Sample Scene",
+            "description": "Demo of features in the adventure toolkit",
+            "path": "Samples~/SamplesStandard/Samples"
+        }
+    ]
+}
