@@ -27,3 +27,17 @@ D:\Github repo\Text-Based-Dungeon\TextDungeon\obj\Debug\net8.0\refint\TextDungeo
 D:\Github repo\Text-Based-Dungeon\TextDungeon\obj\Debug\net8.0\TextDungeon.pdb
 D:\Github repo\Text-Based-Dungeon\TextDungeon\obj\Debug\net8.0\TextDungeon.genruntimeconfig.cache
 D:\Github repo\Text-Based-Dungeon\TextDungeon\obj\Debug\net8.0\ref\TextDungeon.dll
+C:\Users\riwa8\Desktop\UNI work\AdventureGameToolkit Package\TextBasedAdventure~\TextDungeon\bin\Debug\net8.0\TextDungeon.exe
+C:\Users\riwa8\Desktop\UNI work\AdventureGameToolkit Package\TextBasedAdventure~\TextDungeon\bin\Debug\net8.0\TextDungeon.deps.json
+C:\Users\riwa8\Desktop\UNI work\AdventureGameToolkit Package\TextBasedAdventure~\TextDungeon\bin\Debug\net8.0\TextDungeon.runtimeconfig.json
+C:\Users\riwa8\Desktop\UNI work\AdventureGameToolkit Package\TextBasedAdventure~\TextDungeon\bin\Debug\net8.0\TextDungeon.dll
+C:\Users\riwa8\Desktop\UNI work\AdventureGameToolkit Package\TextBasedAdventure~\TextDungeon\bin\Debug\net8.0\TextDungeon.pdb
+C:\Users\riwa8\Desktop\UNI work\AdventureGameToolkit Package\TextBasedAdventure~\TextDungeon\obj\Debug\net8.0\TextDungeon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riwa8\Desktop\UNI work\AdventureGameToolkit Package\TextBasedAdventure~\TextDungeon\obj\Debug\net8.0\TextDungeon.AssemblyInfoInputs.cache
+C:\Users\riwa8\Desktop\UNI work\AdventureGameToolkit Package\TextBasedAdventure~\TextDungeon\obj\Debug\net8.0\TextDungeon.AssemblyInfo.cs
+C:\Users\riwa8\Desktop\UNI work\AdventureGameToolkit Package\TextBasedAdventure~\TextDungeon\obj\Debug\net8.0\TextDungeon.csproj.CoreCompileInputs.cache
+C:\Users\riwa8\Desktop\UNI work\AdventureGameToolkit Package\TextBasedAdventure~\TextDungeon\obj\Debug\net8.0\TextDungeon.dll
+C:\Users\riwa8\Desktop\UNI work\AdventureGameToolkit Package\TextBasedAdventure~\TextDungeon\obj\Debug\net8.0\refint\TextDungeon.dll
+C:\Users\riwa8\Desktop\UNI work\AdventureGameToolkit Package\TextBasedAdventure~\TextDungeon\obj\Debug\net8.0\TextDungeon.pdb
+C:\Users\riwa8\Desktop\UNI work\AdventureGameToolkit Package\TextBasedAdventure~\TextDungeon\obj\Debug\net8.0\TextDungeon.genruntimeconfig.cache
+C:\Users\riwa8\Desktop\UNI work\AdventureGameToolkit Package\TextBasedAdventure~\TextDungeon\obj\Debug\net8.0\ref\TextDungeon.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oqBLpVH9bKbrgcX/3Iyx094RC74DVJQ6J+9xA9CUoAlPvMvYh9Om/EcxwKYiH+OoUxcZ4tYqDevjVVjPRQk6BQ==",
+  "dgSpecHash": "ATUBhxy/sZMGhyQ61dNcL1RMMEMpMZm0Ms0L9otYpiYUvSXA0A5PpdXb6IiKd3dJSYVZhaD/pimr2g6tQKCozA==",
   "success": true,
-  "projectFilePath": "D:\\Github repo\\Text-Based-Dungeon\\TextDungeon\\TextDungeon.csproj",
+  "projectFilePath": "C:\\Users\\riwa8\\Desktop\\UNI work\\AdventureGameToolkit Package\\TextBasedAdventure~\\TextDungeon\\TextDungeon.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github repo\\Text-Based-Dungeon\\TextDungeon\\TextDungeon.csproj": {}
+    "C:\\Users\\riwa8\\Desktop\\UNI work\\AdventureGameToolkit Package\\TextBasedAdventure~\\TextDungeon\\TextDungeon.csproj": {}
   },
   "projects": {
-    "D:\\Github repo\\Text-Based-Dungeon\\TextDungeon\\TextDungeon.csproj": {
+    "C:\\Users\\riwa8\\Desktop\\UNI work\\AdventureGameToolkit Package\\TextBasedAdventure~\\TextDungeon\\TextDungeon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github repo\\Text-Based-Dungeon\\TextDungeon\\TextDungeon.csproj",
+        "projectUniqueName": "C:\\Users\\riwa8\\Desktop\\UNI work\\AdventureGameToolkit Package\\TextBasedAdventure~\\TextDungeon\\TextDungeon.csproj",
         "projectName": "TextDungeon",
-        "projectPath": "D:\\Github repo\\Text-Based-Dungeon\\TextDungeon\\TextDungeon.csproj",
+        "projectPath": "C:\\Users\\riwa8\\Desktop\\UNI work\\AdventureGameToolkit Package\\TextBasedAdventure~\\TextDungeon\\TextDungeon.csproj",
         "packagesPath": "C:\\Users\\riwa8\\.nuget\\packages\\",
-        "outputPath": "D:\\Github repo\\Text-Based-Dungeon\\TextDungeon\\obj\\",
+        "outputPath": "C:\\Users\\riwa8\\Desktop\\UNI work\\AdventureGameToolkit Package\\TextBasedAdventure~\\TextDungeon\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\riwa8\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

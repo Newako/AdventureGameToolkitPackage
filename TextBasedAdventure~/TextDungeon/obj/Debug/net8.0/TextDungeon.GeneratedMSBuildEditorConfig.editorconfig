@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TextDungeon
-build_property.ProjectDir = D:\Github repo\Text-Based-Dungeon\TextDungeon\
+build_property.ProjectDir = C:\Users\riwa8\Desktop\UNI work\AdventureGameToolkit Package\TextBasedAdventure~\TextDungeon\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
